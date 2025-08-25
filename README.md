@@ -159,12 +159,4 @@ html css javascript website google-sheets-integration whatsapp-chat web-capture-
 
 ---
 
-✅ This version **keeps the original README content you liked** and adds:  
-✔ Badges  
-✔ Live Data Link  
-✔ Deployment Instructions  
-✔ GitHub Topics  
-✔ SEO-Friendly Description  
-
----
 
