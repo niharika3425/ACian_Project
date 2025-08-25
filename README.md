@@ -71,7 +71,7 @@ Example: [Live Website](https://your-demo-link.com)
 ## 📊 Live Customer Data
 
 You can view the real-time customer entries here:  
-[**Google Sheets (Live Data)**]([https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?usp=sharing))
+[**Google Sheets (Live Data)**](https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?usp=sharing)
 
 ---
 
