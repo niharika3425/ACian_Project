@@ -41,14 +41,13 @@ The website is designed to:
 
 ## 📂 Project Structure
 
-```
 plain/
 │
-├── index.html # Main HTML file
-├── style.css # CSS file for styling
-├── logo.png # Company logo
-└── .vscode/ # VS Code settings (optional)
-```
+├── index.html      # Main HTML file
+├── style.css       # CSS file for styling
+├── logo.png        # Company logo
+└── .vscode/        # VS Code settings (optional)
+
 
 
 ---
