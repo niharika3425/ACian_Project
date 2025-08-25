@@ -41,6 +41,8 @@ The website is designed to:
 
 ## 📂 Project Structure
 
+# Project Structure
+
 plain/
 │
 ├── index.html # Main HTML file
@@ -69,7 +71,7 @@ Example: [Live Website](https://your-demo-link.com)
 ## 📊 Live Customer Data
 
 You can view the real-time customer entries here:  
-[**Google Sheets (Live Data)**](https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?gid=0#gid=0)
+[**Google Sheets (Live Data)**]([https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1mMHbeVpdPrOxYiXkA4cwU1EqfDV1HE8X7h0X5cYekDI/edit?usp=sharing))
 
 ---
 
@@ -81,6 +83,11 @@ You can view the real-time customer entries here:
 2. Open index.html in any modern browser.
 
 3. (Optional) Update the WhatsApp number and Google Sheets script URL in the HTML/JS code.
+
+
+---
+
+
 
 🌍 Deployment
 
@@ -95,6 +102,11 @@ Drag and drop your project folder or connect your GitHub repository.
 
 Netlify will automatically deploy your site and give you a live link.
 
+
+---
+
+
+
 ✅ Deploy on Vercel
 
 Go to Vercel
@@ -104,9 +116,17 @@ Import your GitHub repository.
 
 Click Deploy, and Vercel will provide a live URL.
 
+---
+
+
+
 📜 License
 
 This project is open-source and available under the MIT License.
+
+
+---
+
 
 ✨ Contributors
 
@@ -114,11 +134,19 @@ Niharika Chauhan
 
 Prachi Joshi
 
+
+---
+
+
 🏅 Event Details
 
 Event: WEB CAPTURE 2025
 
 Organizer: IEEE Student Branch @ GBPIET
+
+
+---
+
 
 🔍 GitHub Topics (SEO)
 html css javascript website google-sheets-integration whatsapp-chat web-capture-2025 ieee-event real-time-data manufacturing repair-services
@@ -140,4 +168,3 @@ html css javascript website google-sheets-integration whatsapp-chat web-capture-
 
 ---
 
-Do you want me to also **include an example Google Apps Script snippet** in the README so people can replicate the Google Sheets integration easily? Or keep it clean without code?
