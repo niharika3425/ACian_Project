@@ -46,8 +46,7 @@ plain/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # CSS file for styling
-├── logo.png        # Company logo
-└── .vscode/        # VS Code settings (optional)
+└── logo.png        # Company logo
 ```
 
 
